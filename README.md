@@ -1,6 +1,6 @@
 # FICO-Homeloan-credit-classification
 ## Introduction:
-This project applies a suite of machine-learning algorithms to an anonymized dataset of real homeowners' Home Equity Line of Credit (HELOC) applications. The data was used as part of a challenge to create machine-learning models with high accuracy and explainability.
+This project applies machine-learning algorithms to an anonymized dataset of real homeowners' Home Equity Line of Credit (HELOC) applications. The data was used as part of a challenge to create machine-learning models with high accuracy and explainability.
 For more about the competition, please refer to: https://community.fico.com/s/explainable-machine-learning-challenge.
 ## Objectives:
 In this project, we will explore a suite of machine-learning algorithms that can used to develop intelligent credit scoring systems. Particularly, we will explore the following:
